@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "all": "biomeception:block/autumn_shrub"
+  }
+}
+

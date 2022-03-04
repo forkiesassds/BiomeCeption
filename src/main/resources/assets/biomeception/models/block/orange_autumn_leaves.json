@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "biomeception:block/orange_autumn_leaves"
+  }
+}
+
